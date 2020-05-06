@@ -1,0 +1,561 @@
+city,car_maker,model,year,condition,kilometers,transmission,fuel,color,pay_method,price
+Al Riyadh,Toyota,Rush,2019,Used,14999.5,Automatic,Gasoline,White,Cash or Installments,58375.0
+Al Riyadh,Kia,Carnival,2006,Used,0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,Toyota,Camry,2014,Used,24999.5,Automatic,Gasoline,White,Installments Only,58375.0
+Al Riyadh,Ford,Fusion,2010,Used,200000.0,Automatic,Gasoline,White,Cash Only,22425.4
+Al Riyadh,Ford,Taurus,2018,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,22425.4
+Al Riyadh,Renault,Dokker Van,2016,Used,64999.5,Manual,Gasoline,White,Cash Only,20000.0
+Al Riyadh,Toyota,Camry,2019,New,0,Automatic,Gasoline,White,Cash or Installments,98500.0
+Al Riyadh,Ford,Fusion,2014,Used,104999.5,Automatic,Gasoline,Black,Cash Only,45000.0
+Al Riyadh,Nissan,Patrol,2009,Used,200000.0,Manual,Gasoline,White,Cash Only,36000.0
+Al Riyadh,Ford,Expedition,2014,Used,200000.0,Automatic,Gasoline,Black,Installments Only,2114.0
+Al Riyadh,BMW,X5,2008,Used,200000.0,Automatic,Gasoline,Silver,Cash Only,25000.0
+Al Riyadh,Cadillac,Escalade,2008,Used,174999.5,Automatic,Gasoline,Black,Cash or Installments,40000.0
+Al Riyadh,Ford,Crown Victoria,2011,Used,144999.5,Automatic,Gasoline,Silver,Cash Only,23000.0
+Al Riyadh,Toyota,Prado,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,58375.0
+Al Riyadh,Toyota,Avalon,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,30000.0
+Al Riyadh,Mazda,3,2013,Used,154999.5,Automatic,Gasoline,Green,Cash Only,16000.0
+Al Riyadh,Ford,Explorer,2013,Used,194999.5,Automatic,Gasoline,Silver,Cash Only,42000.0
+Al Riyadh,Kia,Opirus,2008,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,GMC,Envoy,2007,Used,200000.0,Automatic,Gasoline,White,Cash Only,22000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,Renault,Symbol,2016,Used,44999.5,Automatic,Gasoline,Silver,Cash Only,12000.0
+Al Riyadh,Toyota,Yaris,2009,Used,200000.0,Automatic,Gasoline,Green,Cash Only,11000.0
+Al Riyadh,Dodge,Durango,2012,Used,200000.0,Automatic,Gasoline,Grey,Cash Only,35000.0
+Al Riyadh,Kia,Rio,2015,Used,44999.5,Automatic,Gasoline,Beige,Cash Only,10000.0
+Al Riyadh,BMW,730,2014,Used,114999.5,Automatic,Gasoline,Brown,Cash Only,100000.0
+Al Riyadh,Suzuki,Other,2013,Used,14999.5,Manual,Gasoline,White,Cash Only,24000.0
+Al Riyadh,Toyota,Fortuner,2016,Used,64999.5,Automatic,Gasoline,White,Cash Only,94000.0
+Al Riyadh,Toyota,Rush,2019,Used,14999.5,Automatic,Gasoline,White,Cash or Installments,58375.0
+Al Riyadh,Kia,Carnival,2006,Used,0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,Toyota,Camry,2014,Used,24999.5,Automatic,Gasoline,White,Installments Only,58375.0
+Al Riyadh,Ford,Fusion,2010,Used,200000.0,Automatic,Gasoline,White,Cash Only,22425.4
+Al Riyadh,Ford,Taurus,2018,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,22425.4
+Al Riyadh,Renault,Dokker Van,2016,Used,64999.5,Manual,Gasoline,White,Cash Only,20000.0
+Al Riyadh,Toyota,Camry,2019,New,0,Automatic,Gasoline,White,Cash or Installments,98500.0
+Al Riyadh,Ford,Fusion,2014,Used,104999.5,Automatic,Gasoline,Black,Cash Only,45000.0
+Al Riyadh,Nissan,Patrol,2009,Used,200000.0,Manual,Gasoline,White,Cash Only,36000.0
+Al Riyadh,Ford,Expedition,2014,Used,200000.0,Automatic,Gasoline,Black,Installments Only,2114.0
+Al Riyadh,BMW,X5,2008,Used,200000.0,Automatic,Gasoline,Silver,Cash Only,25000.0
+Al Riyadh,Cadillac,Escalade,2008,Used,174999.5,Automatic,Gasoline,Black,Cash or Installments,40000.0
+Al Riyadh,Ford,Crown Victoria,2011,Used,144999.5,Automatic,Gasoline,Silver,Cash Only,23000.0
+Al Riyadh,Toyota,Prado,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,58375.0
+Al Riyadh,Toyota,Avalon,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,30000.0
+Al Riyadh,Mazda,3,2013,Used,154999.5,Automatic,Gasoline,Green,Cash Only,16000.0
+Al Riyadh,Ford,Explorer,2013,Used,194999.5,Automatic,Gasoline,Silver,Cash Only,42000.0
+Al Riyadh,Kia,Opirus,2008,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,GMC,Envoy,2007,Used,200000.0,Automatic,Gasoline,White,Cash Only,22000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,Renault,Symbol,2016,Used,44999.5,Automatic,Gasoline,Silver,Cash Only,12000.0
+Al Riyadh,Toyota,Yaris,2009,Used,200000.0,Automatic,Gasoline,Green,Cash Only,11000.0
+Al Riyadh,Dodge,Durango,2012,Used,200000.0,Automatic,Gasoline,Grey,Cash Only,35000.0
+Al Riyadh,Kia,Rio,2015,Used,44999.5,Automatic,Gasoline,Beige,Cash Only,10000.0
+Al Riyadh,BMW,730,2014,Used,114999.5,Automatic,Gasoline,Brown,Cash Only,100000.0
+Al Riyadh,Suzuki,Other,2013,Used,14999.5,Manual,Gasoline,White,Cash Only,24000.0
+Al Riyadh,Toyota,Fortuner,2016,Used,64999.5,Automatic,Gasoline,White,Cash Only,94000.0
+Al Riyadh,Toyota,Rush,2019,Used,14999.5,Automatic,Gasoline,White,Cash or Installments,58375.0
+Al Riyadh,Kia,Carnival,2006,Used,0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,Toyota,Camry,2014,Used,24999.5,Automatic,Gasoline,White,Installments Only,58375.0
+Al Riyadh,Ford,Fusion,2010,Used,200000.0,Automatic,Gasoline,White,Cash Only,22425.4
+Al Riyadh,Ford,Taurus,2018,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,22425.4
+Al Riyadh,Renault,Dokker Van,2016,Used,64999.5,Manual,Gasoline,White,Cash Only,20000.0
+Al Riyadh,Toyota,Camry,2019,New,0,Automatic,Gasoline,White,Cash or Installments,98500.0
+Al Riyadh,Ford,Fusion,2014,Used,104999.5,Automatic,Gasoline,Black,Cash Only,45000.0
+Al Riyadh,Nissan,Patrol,2009,Used,200000.0,Manual,Gasoline,White,Cash Only,36000.0
+Al Riyadh,Ford,Expedition,2014,Used,200000.0,Automatic,Gasoline,Black,Installments Only,2114.0
+Al Riyadh,BMW,X5,2008,Used,200000.0,Automatic,Gasoline,Silver,Cash Only,25000.0
+Al Riyadh,Cadillac,Escalade,2008,Used,174999.5,Automatic,Gasoline,Black,Cash or Installments,40000.0
+Al Riyadh,Ford,Crown Victoria,2011,Used,144999.5,Automatic,Gasoline,Silver,Cash Only,23000.0
+Al Riyadh,Toyota,Prado,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,58375.0
+Al Riyadh,Toyota,Avalon,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,30000.0
+Al Riyadh,Mazda,3,2013,Used,154999.5,Automatic,Gasoline,Green,Cash Only,16000.0
+Al Riyadh,Ford,Explorer,2013,Used,194999.5,Automatic,Gasoline,Silver,Cash Only,42000.0
+Al Riyadh,Kia,Opirus,2008,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,GMC,Envoy,2007,Used,200000.0,Automatic,Gasoline,White,Cash Only,22000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,Renault,Symbol,2016,Used,44999.5,Automatic,Gasoline,Silver,Cash Only,12000.0
+Al Riyadh,Toyota,Yaris,2009,Used,200000.0,Automatic,Gasoline,Green,Cash Only,11000.0
+Al Riyadh,Dodge,Durango,2012,Used,200000.0,Automatic,Gasoline,Grey,Cash Only,35000.0
+Al Riyadh,Kia,Rio,2015,Used,44999.5,Automatic,Gasoline,Beige,Cash Only,10000.0
+Al Riyadh,BMW,730,2014,Used,114999.5,Automatic,Gasoline,Brown,Cash Only,100000.0
+Al Riyadh,Suzuki,Other,2013,Used,14999.5,Manual,Gasoline,White,Cash Only,24000.0
+Al Riyadh,Toyota,Fortuner,2016,Used,64999.5,Automatic,Gasoline,White,Cash Only,94000.0
+Al Riyadh,Toyota,Rush,2019,Used,14999.5,Automatic,Gasoline,White,Cash or Installments,58375.0
+Al Riyadh,Kia,Carnival,2006,Used,0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,Toyota,Camry,2014,Used,24999.5,Automatic,Gasoline,White,Installments Only,58375.0
+Al Riyadh,Ford,Fusion,2010,Used,200000.0,Automatic,Gasoline,White,Cash Only,22425.4
+Al Riyadh,Ford,Taurus,2018,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,22425.4
+Al Riyadh,Renault,Dokker Van,2016,Used,64999.5,Manual,Gasoline,White,Cash Only,20000.0
+Al Riyadh,Toyota,Camry,2019,New,0,Automatic,Gasoline,White,Cash or Installments,98500.0
+Al Riyadh,Ford,Fusion,2014,Used,104999.5,Automatic,Gasoline,Black,Cash Only,45000.0
+Al Riyadh,Nissan,Patrol,2009,Used,200000.0,Manual,Gasoline,White,Cash Only,36000.0
+Al Riyadh,Ford,Expedition,2014,Used,200000.0,Automatic,Gasoline,Black,Installments Only,2114.0
+Al Riyadh,BMW,X5,2008,Used,200000.0,Automatic,Gasoline,Silver,Cash Only,25000.0
+Al Riyadh,Cadillac,Escalade,2008,Used,174999.5,Automatic,Gasoline,Black,Cash or Installments,40000.0
+Al Riyadh,Ford,Crown Victoria,2011,Used,144999.5,Automatic,Gasoline,Silver,Cash Only,23000.0
+Al Riyadh,Toyota,Prado,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,58375.0
+Al Riyadh,Toyota,Avalon,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,30000.0
+Al Riyadh,Mazda,3,2013,Used,154999.5,Automatic,Gasoline,Green,Cash Only,16000.0
+Al Riyadh,Ford,Explorer,2013,Used,194999.5,Automatic,Gasoline,Silver,Cash Only,42000.0
+Al Riyadh,Kia,Opirus,2008,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,GMC,Envoy,2007,Used,200000.0,Automatic,Gasoline,White,Cash Only,22000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,Renault,Symbol,2016,Used,44999.5,Automatic,Gasoline,Silver,Cash Only,12000.0
+Al Riyadh,Toyota,Yaris,2009,Used,200000.0,Automatic,Gasoline,Green,Cash Only,11000.0
+Al Riyadh,Dodge,Durango,2012,Used,200000.0,Automatic,Gasoline,Grey,Cash Only,35000.0
+Al Riyadh,Kia,Rio,2015,Used,44999.5,Automatic,Gasoline,Beige,Cash Only,10000.0
+Al Riyadh,BMW,730,2014,Used,114999.5,Automatic,Gasoline,Brown,Cash Only,100000.0
+Al Riyadh,Suzuki,Other,2013,Used,14999.5,Manual,Gasoline,White,Cash Only,24000.0
+Al Riyadh,Toyota,Fortuner,2016,Used,64999.5,Automatic,Gasoline,White,Cash Only,94000.0
+Al Riyadh,Toyota,Rush,2019,Used,14999.5,Automatic,Gasoline,White,Cash or Installments,58375.0
+Al Riyadh,Kia,Carnival,2006,Used,0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,Toyota,Camry,2014,Used,24999.5,Automatic,Gasoline,White,Installments Only,58375.0
+Al Riyadh,Ford,Fusion,2010,Used,200000.0,Automatic,Gasoline,White,Cash Only,22425.4
+Al Riyadh,Ford,Taurus,2018,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,22425.4
+Al Riyadh,Renault,Dokker Van,2016,Used,64999.5,Manual,Gasoline,White,Cash Only,20000.0
+Al Riyadh,Toyota,Camry,2019,New,0,Automatic,Gasoline,White,Cash or Installments,98500.0
+Al Riyadh,Ford,Fusion,2014,Used,104999.5,Automatic,Gasoline,Black,Cash Only,45000.0
+Al Riyadh,Nissan,Patrol,2009,Used,200000.0,Manual,Gasoline,White,Cash Only,36000.0
+Al Riyadh,Ford,Expedition,2014,Used,200000.0,Automatic,Gasoline,Black,Installments Only,2114.0
+Al Riyadh,BMW,X5,2008,Used,200000.0,Automatic,Gasoline,Silver,Cash Only,25000.0
+Al Riyadh,Cadillac,Escalade,2008,Used,174999.5,Automatic,Gasoline,Black,Cash or Installments,40000.0
+Al Riyadh,Ford,Crown Victoria,2011,Used,144999.5,Automatic,Gasoline,Silver,Cash Only,23000.0
+Al Riyadh,Toyota,Prado,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,58375.0
+Al Riyadh,Toyota,Avalon,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,30000.0
+Al Riyadh,Mazda,3,2013,Used,154999.5,Automatic,Gasoline,Green,Cash Only,16000.0
+Al Riyadh,Ford,Explorer,2013,Used,194999.5,Automatic,Gasoline,Silver,Cash Only,42000.0
+Al Riyadh,Kia,Opirus,2008,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,GMC,Envoy,2007,Used,200000.0,Automatic,Gasoline,White,Cash Only,22000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,Renault,Symbol,2016,Used,44999.5,Automatic,Gasoline,Silver,Cash Only,12000.0
+Al Riyadh,Toyota,Yaris,2009,Used,200000.0,Automatic,Gasoline,Green,Cash Only,11000.0
+Al Riyadh,Dodge,Durango,2012,Used,200000.0,Automatic,Gasoline,Grey,Cash Only,35000.0
+Al Riyadh,Kia,Rio,2015,Used,44999.5,Automatic,Gasoline,Beige,Cash Only,10000.0
+Al Riyadh,BMW,730,2014,Used,114999.5,Automatic,Gasoline,Brown,Cash Only,100000.0
+Al Riyadh,Suzuki,Other,2013,Used,14999.5,Manual,Gasoline,White,Cash Only,24000.0
+Al Riyadh,Toyota,Fortuner,2016,Used,64999.5,Automatic,Gasoline,White,Cash Only,94000.0
+Al Riyadh,Toyota,Rush,2019,Used,14999.5,Automatic,Gasoline,White,Cash or Installments,58375.0
+Al Riyadh,Kia,Carnival,2006,Used,0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,Toyota,Camry,2014,Used,24999.5,Automatic,Gasoline,White,Installments Only,58375.0
+Al Riyadh,Ford,Fusion,2010,Used,200000.0,Automatic,Gasoline,White,Cash Only,22425.4
+Al Riyadh,Ford,Taurus,2018,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,22425.4
+Al Riyadh,Renault,Dokker Van,2016,Used,64999.5,Manual,Gasoline,White,Cash Only,20000.0
+Al Riyadh,Toyota,Camry,2019,New,0,Automatic,Gasoline,White,Cash or Installments,98500.0
+Al Riyadh,Ford,Fusion,2014,Used,104999.5,Automatic,Gasoline,Black,Cash Only,45000.0
+Al Riyadh,Nissan,Patrol,2009,Used,200000.0,Manual,Gasoline,White,Cash Only,36000.0
+Al Riyadh,Ford,Expedition,2014,Used,200000.0,Automatic,Gasoline,Black,Installments Only,2114.0
+Al Riyadh,BMW,X5,2008,Used,200000.0,Automatic,Gasoline,Silver,Cash Only,25000.0
+Al Riyadh,Cadillac,Escalade,2008,Used,174999.5,Automatic,Gasoline,Black,Cash or Installments,40000.0
+Al Riyadh,Ford,Crown Victoria,2011,Used,144999.5,Automatic,Gasoline,Silver,Cash Only,23000.0
+Al Riyadh,Toyota,Prado,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,58375.0
+Al Riyadh,Toyota,Avalon,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,30000.0
+Al Riyadh,Mazda,3,2013,Used,154999.5,Automatic,Gasoline,Green,Cash Only,16000.0
+Al Riyadh,Ford,Explorer,2013,Used,194999.5,Automatic,Gasoline,Silver,Cash Only,42000.0
+Al Riyadh,Kia,Opirus,2008,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,GMC,Envoy,2007,Used,200000.0,Automatic,Gasoline,White,Cash Only,22000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,Renault,Symbol,2016,Used,44999.5,Automatic,Gasoline,Silver,Cash Only,12000.0
+Al Riyadh,Toyota,Yaris,2009,Used,200000.0,Automatic,Gasoline,Green,Cash Only,11000.0
+Al Riyadh,Dodge,Durango,2012,Used,200000.0,Automatic,Gasoline,Grey,Cash Only,35000.0
+Al Riyadh,Kia,Rio,2015,Used,44999.5,Automatic,Gasoline,Beige,Cash Only,10000.0
+Al Riyadh,BMW,730,2014,Used,114999.5,Automatic,Gasoline,Brown,Cash Only,100000.0
+Al Riyadh,Suzuki,Other,2013,Used,14999.5,Manual,Gasoline,White,Cash Only,24000.0
+Al Riyadh,Toyota,Fortuner,2016,Used,64999.5,Automatic,Gasoline,White,Cash Only,94000.0
+Al Riyadh,Toyota,Rush,2019,Used,14999.5,Automatic,Gasoline,White,Cash or Installments,58375.0
+Al Riyadh,Kia,Carnival,2006,Used,0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,Toyota,Camry,2014,Used,24999.5,Automatic,Gasoline,White,Installments Only,58375.0
+Al Riyadh,Ford,Fusion,2010,Used,200000.0,Automatic,Gasoline,White,Cash Only,22425.4
+Al Riyadh,Ford,Taurus,2018,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,22425.4
+Al Riyadh,Renault,Dokker Van,2016,Used,64999.5,Manual,Gasoline,White,Cash Only,20000.0
+Al Riyadh,Toyota,Camry,2019,New,0,Automatic,Gasoline,White,Cash or Installments,98500.0
+Al Riyadh,Ford,Fusion,2014,Used,104999.5,Automatic,Gasoline,Black,Cash Only,45000.0
+Al Riyadh,Nissan,Patrol,2009,Used,200000.0,Manual,Gasoline,White,Cash Only,36000.0
+Al Riyadh,Ford,Expedition,2014,Used,200000.0,Automatic,Gasoline,Black,Installments Only,2114.0
+Al Riyadh,BMW,X5,2008,Used,200000.0,Automatic,Gasoline,Silver,Cash Only,25000.0
+Al Riyadh,Cadillac,Escalade,2008,Used,174999.5,Automatic,Gasoline,Black,Cash or Installments,40000.0
+Al Riyadh,Ford,Crown Victoria,2011,Used,144999.5,Automatic,Gasoline,Silver,Cash Only,23000.0
+Al Riyadh,Toyota,Prado,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,58375.0
+Al Riyadh,Toyota,Avalon,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,30000.0
+Al Riyadh,Mazda,3,2013,Used,154999.5,Automatic,Gasoline,Green,Cash Only,16000.0
+Al Riyadh,Ford,Explorer,2013,Used,194999.5,Automatic,Gasoline,Silver,Cash Only,42000.0
+Al Riyadh,Kia,Opirus,2008,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,GMC,Envoy,2007,Used,200000.0,Automatic,Gasoline,White,Cash Only,22000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,Renault,Symbol,2016,Used,44999.5,Automatic,Gasoline,Silver,Cash Only,12000.0
+Al Riyadh,Toyota,Yaris,2009,Used,200000.0,Automatic,Gasoline,Green,Cash Only,11000.0
+Al Riyadh,Dodge,Durango,2012,Used,200000.0,Automatic,Gasoline,Grey,Cash Only,35000.0
+Al Riyadh,Kia,Rio,2015,Used,44999.5,Automatic,Gasoline,Beige,Cash Only,10000.0
+Al Riyadh,BMW,730,2014,Used,114999.5,Automatic,Gasoline,Brown,Cash Only,100000.0
+Al Riyadh,Suzuki,Other,2013,Used,14999.5,Manual,Gasoline,White,Cash Only,24000.0
+Al Riyadh,Toyota,Fortuner,2016,Used,64999.5,Automatic,Gasoline,White,Cash Only,94000.0
+Al Riyadh,Toyota,Rush,2019,Used,14999.5,Automatic,Gasoline,White,Cash or Installments,58375.0
+Al Riyadh,Kia,Carnival,2006,Used,0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,Toyota,Camry,2014,Used,24999.5,Automatic,Gasoline,White,Installments Only,58375.0
+Al Riyadh,Ford,Fusion,2010,Used,200000.0,Automatic,Gasoline,White,Cash Only,22425.4
+Al Riyadh,Ford,Taurus,2018,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,22425.4
+Al Riyadh,Renault,Dokker Van,2016,Used,64999.5,Manual,Gasoline,White,Cash Only,20000.0
+Al Riyadh,Toyota,Camry,2019,New,0,Automatic,Gasoline,White,Cash or Installments,98500.0
+Al Riyadh,Ford,Fusion,2014,Used,104999.5,Automatic,Gasoline,Black,Cash Only,45000.0
+Al Riyadh,Nissan,Patrol,2009,Used,200000.0,Manual,Gasoline,White,Cash Only,36000.0
+Al Riyadh,Ford,Expedition,2014,Used,200000.0,Automatic,Gasoline,Black,Installments Only,2114.0
+Al Riyadh,BMW,X5,2008,Used,200000.0,Automatic,Gasoline,Silver,Cash Only,25000.0
+Al Riyadh,Cadillac,Escalade,2008,Used,174999.5,Automatic,Gasoline,Black,Cash or Installments,40000.0
+Al Riyadh,Ford,Crown Victoria,2011,Used,144999.5,Automatic,Gasoline,Silver,Cash Only,23000.0
+Al Riyadh,Toyota,Prado,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,58375.0
+Al Riyadh,Toyota,Avalon,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,30000.0
+Al Riyadh,Mazda,3,2013,Used,154999.5,Automatic,Gasoline,Green,Cash Only,16000.0
+Al Riyadh,Ford,Explorer,2013,Used,194999.5,Automatic,Gasoline,Silver,Cash Only,42000.0
+Al Riyadh,Kia,Opirus,2008,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,GMC,Envoy,2007,Used,200000.0,Automatic,Gasoline,White,Cash Only,22000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,Renault,Symbol,2016,Used,44999.5,Automatic,Gasoline,Silver,Cash Only,12000.0
+Al Riyadh,Toyota,Yaris,2009,Used,200000.0,Automatic,Gasoline,Green,Cash Only,11000.0
+Al Riyadh,Dodge,Durango,2012,Used,200000.0,Automatic,Gasoline,Grey,Cash Only,35000.0
+Al Riyadh,Kia,Rio,2015,Used,44999.5,Automatic,Gasoline,Beige,Cash Only,10000.0
+Al Riyadh,BMW,730,2014,Used,114999.5,Automatic,Gasoline,Brown,Cash Only,100000.0
+Al Riyadh,Suzuki,Other,2013,Used,14999.5,Manual,Gasoline,White,Cash Only,24000.0
+Al Riyadh,Toyota,Fortuner,2016,Used,64999.5,Automatic,Gasoline,White,Cash Only,94000.0
+Al Riyadh,Toyota,Rush,2019,Used,14999.5,Automatic,Gasoline,White,Cash or Installments,58375.0
+Al Riyadh,Kia,Carnival,2006,Used,0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,Toyota,Camry,2014,Used,24999.5,Automatic,Gasoline,White,Installments Only,58375.0
+Al Riyadh,Ford,Fusion,2010,Used,200000.0,Automatic,Gasoline,White,Cash Only,22425.4
+Al Riyadh,Ford,Taurus,2018,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,22425.4
+Al Riyadh,Renault,Dokker Van,2016,Used,64999.5,Manual,Gasoline,White,Cash Only,20000.0
+Al Riyadh,Toyota,Camry,2019,New,0,Automatic,Gasoline,White,Cash or Installments,98500.0
+Al Riyadh,Ford,Fusion,2014,Used,104999.5,Automatic,Gasoline,Black,Cash Only,45000.0
+Al Riyadh,Nissan,Patrol,2009,Used,200000.0,Manual,Gasoline,White,Cash Only,36000.0
+Al Riyadh,Ford,Expedition,2014,Used,200000.0,Automatic,Gasoline,Black,Installments Only,2114.0
+Al Riyadh,BMW,X5,2008,Used,200000.0,Automatic,Gasoline,Silver,Cash Only,25000.0
+Al Riyadh,Cadillac,Escalade,2008,Used,174999.5,Automatic,Gasoline,Black,Cash or Installments,40000.0
+Al Riyadh,Ford,Crown Victoria,2011,Used,144999.5,Automatic,Gasoline,Silver,Cash Only,23000.0
+Al Riyadh,Toyota,Prado,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,58375.0
+Al Riyadh,Toyota,Avalon,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,30000.0
+Al Riyadh,Mazda,3,2013,Used,154999.5,Automatic,Gasoline,Green,Cash Only,16000.0
+Al Riyadh,Ford,Explorer,2013,Used,194999.5,Automatic,Gasoline,Silver,Cash Only,42000.0
+Al Riyadh,Kia,Opirus,2008,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,GMC,Envoy,2007,Used,200000.0,Automatic,Gasoline,White,Cash Only,22000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,Renault,Symbol,2016,Used,44999.5,Automatic,Gasoline,Silver,Cash Only,12000.0
+Al Riyadh,Toyota,Yaris,2009,Used,200000.0,Automatic,Gasoline,Green,Cash Only,11000.0
+Al Riyadh,Dodge,Durango,2012,Used,200000.0,Automatic,Gasoline,Grey,Cash Only,35000.0
+Al Riyadh,Kia,Rio,2015,Used,44999.5,Automatic,Gasoline,Beige,Cash Only,10000.0
+Al Riyadh,BMW,730,2014,Used,114999.5,Automatic,Gasoline,Brown,Cash Only,100000.0
+Al Riyadh,Suzuki,Other,2013,Used,14999.5,Manual,Gasoline,White,Cash Only,24000.0
+Al Riyadh,Toyota,Fortuner,2016,Used,64999.5,Automatic,Gasoline,White,Cash Only,94000.0
+Al Riyadh,Toyota,Rush,2019,Used,14999.5,Automatic,Gasoline,White,Cash or Installments,58375.0
+Al Riyadh,Kia,Carnival,2006,Used,0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,Toyota,Camry,2014,Used,24999.5,Automatic,Gasoline,White,Installments Only,58375.0
+Al Riyadh,Ford,Fusion,2010,Used,200000.0,Automatic,Gasoline,White,Cash Only,22425.4
+Al Riyadh,Ford,Taurus,2018,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,22425.4
+Al Riyadh,Renault,Dokker Van,2016,Used,64999.5,Manual,Gasoline,White,Cash Only,20000.0
+Al Riyadh,Toyota,Camry,2019,New,0,Automatic,Gasoline,White,Cash or Installments,98500.0
+Al Riyadh,Ford,Fusion,2014,Used,104999.5,Automatic,Gasoline,Black,Cash Only,45000.0
+Al Riyadh,Nissan,Patrol,2009,Used,200000.0,Manual,Gasoline,White,Cash Only,36000.0
+Al Riyadh,Ford,Expedition,2014,Used,200000.0,Automatic,Gasoline,Black,Installments Only,2114.0
+Al Riyadh,BMW,X5,2008,Used,200000.0,Automatic,Gasoline,Silver,Cash Only,25000.0
+Al Riyadh,Cadillac,Escalade,2008,Used,174999.5,Automatic,Gasoline,Black,Cash or Installments,40000.0
+Al Riyadh,Ford,Crown Victoria,2011,Used,144999.5,Automatic,Gasoline,Silver,Cash Only,23000.0
+Al Riyadh,Toyota,Prado,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,58375.0
+Al Riyadh,Toyota,Avalon,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,30000.0
+Al Riyadh,Mazda,3,2013,Used,154999.5,Automatic,Gasoline,Green,Cash Only,16000.0
+Al Riyadh,Ford,Explorer,2013,Used,194999.5,Automatic,Gasoline,Silver,Cash Only,42000.0
+Al Riyadh,Kia,Opirus,2008,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,GMC,Envoy,2007,Used,200000.0,Automatic,Gasoline,White,Cash Only,22000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,Renault,Symbol,2016,Used,44999.5,Automatic,Gasoline,Silver,Cash Only,12000.0
+Al Riyadh,Toyota,Yaris,2009,Used,200000.0,Automatic,Gasoline,Green,Cash Only,11000.0
+Al Riyadh,Dodge,Durango,2012,Used,200000.0,Automatic,Gasoline,Grey,Cash Only,35000.0
+Al Riyadh,Kia,Rio,2015,Used,44999.5,Automatic,Gasoline,Beige,Cash Only,10000.0
+Al Riyadh,BMW,730,2014,Used,114999.5,Automatic,Gasoline,Brown,Cash Only,100000.0
+Al Riyadh,Suzuki,Other,2013,Used,14999.5,Manual,Gasoline,White,Cash Only,24000.0
+Al Riyadh,Toyota,Fortuner,2016,Used,64999.5,Automatic,Gasoline,White,Cash Only,94000.0
+Al Riyadh,Toyota,Rush,2019,Used,14999.5,Automatic,Gasoline,White,Cash or Installments,58375.0
+Al Riyadh,Kia,Carnival,2006,Used,0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,Toyota,Camry,2014,Used,24999.5,Automatic,Gasoline,White,Installments Only,58375.0
+Al Riyadh,Ford,Fusion,2010,Used,200000.0,Automatic,Gasoline,White,Cash Only,22425.4
+Al Riyadh,Ford,Taurus,2018,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,22425.4
+Al Riyadh,Renault,Dokker Van,2016,Used,64999.5,Manual,Gasoline,White,Cash Only,20000.0
+Al Riyadh,Toyota,Camry,2019,New,0,Automatic,Gasoline,White,Cash or Installments,98500.0
+Al Riyadh,Ford,Fusion,2014,Used,104999.5,Automatic,Gasoline,Black,Cash Only,45000.0
+Al Riyadh,Nissan,Patrol,2009,Used,200000.0,Manual,Gasoline,White,Cash Only,36000.0
+Al Riyadh,Ford,Expedition,2014,Used,200000.0,Automatic,Gasoline,Black,Installments Only,2114.0
+Al Riyadh,BMW,X5,2008,Used,200000.0,Automatic,Gasoline,Silver,Cash Only,25000.0
+Al Riyadh,Cadillac,Escalade,2008,Used,174999.5,Automatic,Gasoline,Black,Cash or Installments,40000.0
+Al Riyadh,Ford,Crown Victoria,2011,Used,144999.5,Automatic,Gasoline,Silver,Cash Only,23000.0
+Al Riyadh,Toyota,Prado,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,58375.0
+Al Riyadh,Toyota,Avalon,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,30000.0
+Al Riyadh,Mazda,3,2013,Used,154999.5,Automatic,Gasoline,Green,Cash Only,16000.0
+Al Riyadh,Ford,Explorer,2013,Used,194999.5,Automatic,Gasoline,Silver,Cash Only,42000.0
+Al Riyadh,Kia,Opirus,2008,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,GMC,Envoy,2007,Used,200000.0,Automatic,Gasoline,White,Cash Only,22000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,Renault,Symbol,2016,Used,44999.5,Automatic,Gasoline,Silver,Cash Only,12000.0
+Al Riyadh,Toyota,Yaris,2009,Used,200000.0,Automatic,Gasoline,Green,Cash Only,11000.0
+Al Riyadh,Dodge,Durango,2012,Used,200000.0,Automatic,Gasoline,Grey,Cash Only,35000.0
+Al Riyadh,Kia,Rio,2015,Used,44999.5,Automatic,Gasoline,Beige,Cash Only,10000.0
+Al Riyadh,BMW,730,2014,Used,114999.5,Automatic,Gasoline,Brown,Cash Only,100000.0
+Al Riyadh,Suzuki,Other,2013,Used,14999.5,Manual,Gasoline,White,Cash Only,24000.0
+Al Riyadh,Toyota,Fortuner,2016,Used,64999.5,Automatic,Gasoline,White,Cash Only,94000.0
+Al Riyadh,Toyota,Rush,2019,Used,14999.5,Automatic,Gasoline,White,Cash or Installments,58375.0
+Al Riyadh,Kia,Carnival,2006,Used,0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,Toyota,Camry,2014,Used,24999.5,Automatic,Gasoline,White,Installments Only,58375.0
+Al Riyadh,Ford,Fusion,2010,Used,200000.0,Automatic,Gasoline,White,Cash Only,22425.4
+Al Riyadh,Ford,Taurus,2018,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,22425.4
+Al Riyadh,Renault,Dokker Van,2016,Used,64999.5,Manual,Gasoline,White,Cash Only,20000.0
+Al Riyadh,Toyota,Camry,2019,New,0,Automatic,Gasoline,White,Cash or Installments,98500.0
+Al Riyadh,Ford,Fusion,2014,Used,104999.5,Automatic,Gasoline,Black,Cash Only,45000.0
+Al Riyadh,Nissan,Patrol,2009,Used,200000.0,Manual,Gasoline,White,Cash Only,36000.0
+Al Riyadh,Ford,Expedition,2014,Used,200000.0,Automatic,Gasoline,Black,Installments Only,2114.0
+Al Riyadh,BMW,X5,2008,Used,200000.0,Automatic,Gasoline,Silver,Cash Only,25000.0
+Al Riyadh,Cadillac,Escalade,2008,Used,174999.5,Automatic,Gasoline,Black,Cash or Installments,40000.0
+Al Riyadh,Ford,Crown Victoria,2011,Used,144999.5,Automatic,Gasoline,Silver,Cash Only,23000.0
+Al Riyadh,Toyota,Prado,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,58375.0
+Al Riyadh,Toyota,Avalon,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,30000.0
+Al Riyadh,Mazda,3,2013,Used,154999.5,Automatic,Gasoline,Green,Cash Only,16000.0
+Al Riyadh,Ford,Explorer,2013,Used,194999.5,Automatic,Gasoline,Silver,Cash Only,42000.0
+Al Riyadh,Kia,Opirus,2008,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,GMC,Envoy,2007,Used,200000.0,Automatic,Gasoline,White,Cash Only,22000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,Renault,Symbol,2016,Used,44999.5,Automatic,Gasoline,Silver,Cash Only,12000.0
+Al Riyadh,Toyota,Yaris,2009,Used,200000.0,Automatic,Gasoline,Green,Cash Only,11000.0
+Al Riyadh,Dodge,Durango,2012,Used,200000.0,Automatic,Gasoline,Grey,Cash Only,35000.0
+Al Riyadh,Kia,Rio,2015,Used,44999.5,Automatic,Gasoline,Beige,Cash Only,10000.0
+Al Riyadh,BMW,730,2014,Used,114999.5,Automatic,Gasoline,Brown,Cash Only,100000.0
+Al Riyadh,Suzuki,Other,2013,Used,14999.5,Manual,Gasoline,White,Cash Only,24000.0
+Al Riyadh,Toyota,Fortuner,2016,Used,64999.5,Automatic,Gasoline,White,Cash Only,94000.0
+Al Riyadh,Toyota,Rush,2019,Used,14999.5,Automatic,Gasoline,White,Cash or Installments,58375.0
+Al Riyadh,Kia,Carnival,2006,Used,0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,Toyota,Camry,2014,Used,24999.5,Automatic,Gasoline,White,Installments Only,58375.0
+Al Riyadh,Ford,Fusion,2010,Used,200000.0,Automatic,Gasoline,White,Cash Only,22425.4
+Al Riyadh,Ford,Taurus,2018,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,22425.4
+Al Riyadh,Renault,Dokker Van,2016,Used,64999.5,Manual,Gasoline,White,Cash Only,20000.0
+Al Riyadh,Toyota,Camry,2019,New,0,Automatic,Gasoline,White,Cash or Installments,98500.0
+Al Riyadh,Ford,Fusion,2014,Used,104999.5,Automatic,Gasoline,Black,Cash Only,45000.0
+Al Riyadh,Nissan,Patrol,2009,Used,200000.0,Manual,Gasoline,White,Cash Only,36000.0
+Al Riyadh,Ford,Expedition,2014,Used,200000.0,Automatic,Gasoline,Black,Installments Only,2114.0
+Al Riyadh,BMW,X5,2008,Used,200000.0,Automatic,Gasoline,Silver,Cash Only,25000.0
+Al Riyadh,Cadillac,Escalade,2008,Used,174999.5,Automatic,Gasoline,Black,Cash or Installments,40000.0
+Al Riyadh,Ford,Crown Victoria,2011,Used,144999.5,Automatic,Gasoline,Silver,Cash Only,23000.0
+Al Riyadh,Toyota,Prado,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,58375.0
+Al Riyadh,Toyota,Avalon,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,30000.0
+Al Riyadh,Mazda,3,2013,Used,154999.5,Automatic,Gasoline,Green,Cash Only,16000.0
+Al Riyadh,Ford,Explorer,2013,Used,194999.5,Automatic,Gasoline,Silver,Cash Only,42000.0
+Al Riyadh,Kia,Opirus,2008,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,GMC,Envoy,2007,Used,200000.0,Automatic,Gasoline,White,Cash Only,22000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,Renault,Symbol,2016,Used,44999.5,Automatic,Gasoline,Silver,Cash Only,12000.0
+Al Riyadh,Toyota,Yaris,2009,Used,200000.0,Automatic,Gasoline,Green,Cash Only,11000.0
+Al Riyadh,Dodge,Durango,2012,Used,200000.0,Automatic,Gasoline,Grey,Cash Only,35000.0
+Al Riyadh,Kia,Rio,2015,Used,44999.5,Automatic,Gasoline,Beige,Cash Only,10000.0
+Al Riyadh,BMW,730,2014,Used,114999.5,Automatic,Gasoline,Brown,Cash Only,100000.0
+Al Riyadh,Suzuki,Other,2013,Used,14999.5,Manual,Gasoline,White,Cash Only,24000.0
+Al Riyadh,Toyota,Fortuner,2016,Used,64999.5,Automatic,Gasoline,White,Cash Only,94000.0
+Al Riyadh,Toyota,Rush,2019,Used,14999.5,Automatic,Gasoline,White,Cash or Installments,58375.0
+Al Riyadh,Kia,Carnival,2006,Used,0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,Toyota,Camry,2014,Used,24999.5,Automatic,Gasoline,White,Installments Only,58375.0
+Al Riyadh,Ford,Fusion,2010,Used,200000.0,Automatic,Gasoline,White,Cash Only,22425.4
+Al Riyadh,Ford,Taurus,2018,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,22425.4
+Al Riyadh,Renault,Dokker Van,2016,Used,64999.5,Manual,Gasoline,White,Cash Only,20000.0
+Al Riyadh,Toyota,Camry,2019,New,0,Automatic,Gasoline,White,Cash or Installments,98500.0
+Al Riyadh,Ford,Fusion,2014,Used,104999.5,Automatic,Gasoline,Black,Cash Only,45000.0
+Al Riyadh,Nissan,Patrol,2009,Used,200000.0,Manual,Gasoline,White,Cash Only,36000.0
+Al Riyadh,Ford,Expedition,2014,Used,200000.0,Automatic,Gasoline,Black,Installments Only,2114.0
+Al Riyadh,BMW,X5,2008,Used,200000.0,Automatic,Gasoline,Silver,Cash Only,25000.0
+Al Riyadh,Cadillac,Escalade,2008,Used,174999.5,Automatic,Gasoline,Black,Cash or Installments,40000.0
+Al Riyadh,Ford,Crown Victoria,2011,Used,144999.5,Automatic,Gasoline,Silver,Cash Only,23000.0
+Al Riyadh,Toyota,Prado,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,58375.0
+Al Riyadh,Toyota,Avalon,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,30000.0
+Al Riyadh,Mazda,3,2013,Used,154999.5,Automatic,Gasoline,Green,Cash Only,16000.0
+Al Riyadh,Ford,Explorer,2013,Used,194999.5,Automatic,Gasoline,Silver,Cash Only,42000.0
+Al Riyadh,Kia,Opirus,2008,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,GMC,Envoy,2007,Used,200000.0,Automatic,Gasoline,White,Cash Only,22000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,Renault,Symbol,2016,Used,44999.5,Automatic,Gasoline,Silver,Cash Only,12000.0
+Al Riyadh,Toyota,Yaris,2009,Used,200000.0,Automatic,Gasoline,Green,Cash Only,11000.0
+Al Riyadh,Dodge,Durango,2012,Used,200000.0,Automatic,Gasoline,Grey,Cash Only,35000.0
+Al Riyadh,Kia,Rio,2015,Used,44999.5,Automatic,Gasoline,Beige,Cash Only,10000.0
+Al Riyadh,BMW,730,2014,Used,114999.5,Automatic,Gasoline,Brown,Cash Only,100000.0
+Al Riyadh,Suzuki,Other,2013,Used,14999.5,Manual,Gasoline,White,Cash Only,24000.0
+Al Riyadh,Toyota,Fortuner,2016,Used,64999.5,Automatic,Gasoline,White,Cash Only,94000.0
+Al Riyadh,Toyota,Rush,2019,Used,14999.5,Automatic,Gasoline,White,Cash or Installments,58375.0
+Al Riyadh,Kia,Carnival,2006,Used,0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,Toyota,Camry,2014,Used,24999.5,Automatic,Gasoline,White,Installments Only,58375.0
+Al Riyadh,Ford,Fusion,2010,Used,200000.0,Automatic,Gasoline,White,Cash Only,22425.4
+Al Riyadh,Ford,Taurus,2018,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,22425.4
+Al Riyadh,Renault,Dokker Van,2016,Used,64999.5,Manual,Gasoline,White,Cash Only,20000.0
+Al Riyadh,Toyota,Camry,2019,New,0,Automatic,Gasoline,White,Cash or Installments,98500.0
+Al Riyadh,Ford,Fusion,2014,Used,104999.5,Automatic,Gasoline,Black,Cash Only,45000.0
+Al Riyadh,Nissan,Patrol,2009,Used,200000.0,Manual,Gasoline,White,Cash Only,36000.0
+Al Riyadh,Ford,Expedition,2014,Used,200000.0,Automatic,Gasoline,Black,Installments Only,2114.0
+Al Riyadh,BMW,X5,2008,Used,200000.0,Automatic,Gasoline,Silver,Cash Only,25000.0
+Al Riyadh,Cadillac,Escalade,2008,Used,174999.5,Automatic,Gasoline,Black,Cash or Installments,40000.0
+Al Riyadh,Ford,Crown Victoria,2011,Used,144999.5,Automatic,Gasoline,Silver,Cash Only,23000.0
+Al Riyadh,Toyota,Prado,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,58375.0
+Al Riyadh,Toyota,Avalon,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,30000.0
+Al Riyadh,Mazda,3,2013,Used,154999.5,Automatic,Gasoline,Green,Cash Only,16000.0
+Al Riyadh,Ford,Explorer,2013,Used,194999.5,Automatic,Gasoline,Silver,Cash Only,42000.0
+Al Riyadh,Kia,Opirus,2008,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,GMC,Envoy,2007,Used,200000.0,Automatic,Gasoline,White,Cash Only,22000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,Renault,Symbol,2016,Used,44999.5,Automatic,Gasoline,Silver,Cash Only,12000.0
+Al Riyadh,Toyota,Yaris,2009,Used,200000.0,Automatic,Gasoline,Green,Cash Only,11000.0
+Al Riyadh,Dodge,Durango,2012,Used,200000.0,Automatic,Gasoline,Grey,Cash Only,35000.0
+Al Riyadh,Kia,Rio,2015,Used,44999.5,Automatic,Gasoline,Beige,Cash Only,10000.0
+Al Riyadh,BMW,730,2014,Used,114999.5,Automatic,Gasoline,Brown,Cash Only,100000.0
+Al Riyadh,Suzuki,Other,2013,Used,14999.5,Manual,Gasoline,White,Cash Only,24000.0
+Al Riyadh,Toyota,Fortuner,2016,Used,64999.5,Automatic,Gasoline,White,Cash Only,94000.0
+Al Riyadh,Toyota,Rush,2019,Used,14999.5,Automatic,Gasoline,White,Cash or Installments,58375.0
+Al Riyadh,Kia,Carnival,2006,Used,0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,Toyota,Camry,2014,Used,24999.5,Automatic,Gasoline,White,Installments Only,58375.0
+Al Riyadh,Ford,Fusion,2010,Used,200000.0,Automatic,Gasoline,White,Cash Only,22425.4
+Al Riyadh,Ford,Taurus,2018,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,22425.4
+Al Riyadh,Renault,Dokker Van,2016,Used,64999.5,Manual,Gasoline,White,Cash Only,20000.0
+Al Riyadh,Toyota,Camry,2019,New,0,Automatic,Gasoline,White,Cash or Installments,98500.0
+Al Riyadh,Ford,Fusion,2014,Used,104999.5,Automatic,Gasoline,Black,Cash Only,45000.0
+Al Riyadh,Nissan,Patrol,2009,Used,200000.0,Manual,Gasoline,White,Cash Only,36000.0
+Al Riyadh,Ford,Expedition,2014,Used,200000.0,Automatic,Gasoline,Black,Installments Only,2114.0
+Al Riyadh,BMW,X5,2008,Used,200000.0,Automatic,Gasoline,Silver,Cash Only,25000.0
+Al Riyadh,Cadillac,Escalade,2008,Used,174999.5,Automatic,Gasoline,Black,Cash or Installments,40000.0
+Al Riyadh,Ford,Crown Victoria,2011,Used,144999.5,Automatic,Gasoline,Silver,Cash Only,23000.0
+Al Riyadh,Toyota,Prado,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,58375.0
+Al Riyadh,Toyota,Avalon,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,30000.0
+Al Riyadh,Mazda,3,2013,Used,154999.5,Automatic,Gasoline,Green,Cash Only,16000.0
+Al Riyadh,Ford,Explorer,2013,Used,194999.5,Automatic,Gasoline,Silver,Cash Only,42000.0
+Al Riyadh,Kia,Opirus,2008,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,GMC,Envoy,2007,Used,200000.0,Automatic,Gasoline,White,Cash Only,22000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,Renault,Symbol,2016,Used,44999.5,Automatic,Gasoline,Silver,Cash Only,12000.0
+Al Riyadh,Toyota,Yaris,2009,Used,200000.0,Automatic,Gasoline,Green,Cash Only,11000.0
+Al Riyadh,Dodge,Durango,2012,Used,200000.0,Automatic,Gasoline,Grey,Cash Only,35000.0
+Al Riyadh,Kia,Rio,2015,Used,44999.5,Automatic,Gasoline,Beige,Cash Only,10000.0
+Al Riyadh,BMW,730,2014,Used,114999.5,Automatic,Gasoline,Brown,Cash Only,100000.0
+Al Riyadh,Suzuki,Other,2013,Used,14999.5,Manual,Gasoline,White,Cash Only,24000.0
+Al Riyadh,Toyota,Fortuner,2016,Used,64999.5,Automatic,Gasoline,White,Cash Only,94000.0
+Al Riyadh,Toyota,Rush,2019,Used,14999.5,Automatic,Gasoline,White,Cash or Installments,58375.0
+Al Riyadh,Kia,Carnival,2006,Used,0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,Toyota,Camry,2014,Used,24999.5,Automatic,Gasoline,White,Installments Only,58375.0
+Al Riyadh,Ford,Fusion,2010,Used,200000.0,Automatic,Gasoline,White,Cash Only,22425.4
+Al Riyadh,Ford,Taurus,2018,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,22425.4
+Al Riyadh,Renault,Dokker Van,2016,Used,64999.5,Manual,Gasoline,White,Cash Only,20000.0
+Al Riyadh,Toyota,Camry,2019,New,0,Automatic,Gasoline,White,Cash or Installments,98500.0
+Al Riyadh,Ford,Fusion,2014,Used,104999.5,Automatic,Gasoline,Black,Cash Only,45000.0
+Al Riyadh,Nissan,Patrol,2009,Used,200000.0,Manual,Gasoline,White,Cash Only,36000.0
+Al Riyadh,Ford,Expedition,2014,Used,200000.0,Automatic,Gasoline,Black,Installments Only,2114.0
+Al Riyadh,BMW,X5,2008,Used,200000.0,Automatic,Gasoline,Silver,Cash Only,25000.0
+Al Riyadh,Cadillac,Escalade,2008,Used,174999.5,Automatic,Gasoline,Black,Cash or Installments,40000.0
+Al Riyadh,Ford,Crown Victoria,2011,Used,144999.5,Automatic,Gasoline,Silver,Cash Only,23000.0
+Al Riyadh,Toyota,Prado,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,58375.0
+Al Riyadh,Toyota,Avalon,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,30000.0
+Al Riyadh,Mazda,3,2013,Used,154999.5,Automatic,Gasoline,Green,Cash Only,16000.0
+Al Riyadh,Ford,Explorer,2013,Used,194999.5,Automatic,Gasoline,Silver,Cash Only,42000.0
+Al Riyadh,Kia,Opirus,2008,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,GMC,Envoy,2007,Used,200000.0,Automatic,Gasoline,White,Cash Only,22000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,Renault,Symbol,2016,Used,44999.5,Automatic,Gasoline,Silver,Cash Only,12000.0
+Al Riyadh,Toyota,Yaris,2009,Used,200000.0,Automatic,Gasoline,Green,Cash Only,11000.0
+Al Riyadh,Dodge,Durango,2012,Used,200000.0,Automatic,Gasoline,Grey,Cash Only,35000.0
+Al Riyadh,Kia,Rio,2015,Used,44999.5,Automatic,Gasoline,Beige,Cash Only,10000.0
+Al Riyadh,BMW,730,2014,Used,114999.5,Automatic,Gasoline,Brown,Cash Only,100000.0
+Al Riyadh,Suzuki,Other,2013,Used,14999.5,Manual,Gasoline,White,Cash Only,24000.0
+Al Riyadh,Toyota,Fortuner,2016,Used,64999.5,Automatic,Gasoline,White,Cash Only,94000.0
+Al Riyadh,Toyota,Rush,2019,Used,14999.5,Automatic,Gasoline,White,Cash or Installments,58375.0
+Al Riyadh,Kia,Carnival,2006,Used,0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,Toyota,Camry,2014,Used,24999.5,Automatic,Gasoline,White,Installments Only,58375.0
+Al Riyadh,Ford,Fusion,2010,Used,200000.0,Automatic,Gasoline,White,Cash Only,22425.4
+Al Riyadh,Ford,Taurus,2018,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,22425.4
+Al Riyadh,Renault,Dokker Van,2016,Used,64999.5,Manual,Gasoline,White,Cash Only,20000.0
+Al Riyadh,Toyota,Camry,2019,New,0,Automatic,Gasoline,White,Cash or Installments,98500.0
+Al Riyadh,Ford,Fusion,2014,Used,104999.5,Automatic,Gasoline,Black,Cash Only,45000.0
+Al Riyadh,Nissan,Patrol,2009,Used,200000.0,Manual,Gasoline,White,Cash Only,36000.0
+Al Riyadh,Ford,Expedition,2014,Used,200000.0,Automatic,Gasoline,Black,Installments Only,2114.0
+Al Riyadh,BMW,X5,2008,Used,200000.0,Automatic,Gasoline,Silver,Cash Only,25000.0
+Al Riyadh,Cadillac,Escalade,2008,Used,174999.5,Automatic,Gasoline,Black,Cash or Installments,40000.0
+Al Riyadh,Ford,Crown Victoria,2011,Used,144999.5,Automatic,Gasoline,Silver,Cash Only,23000.0
+Al Riyadh,Toyota,Prado,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,58375.0
+Al Riyadh,Toyota,Avalon,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,30000.0
+Al Riyadh,Mazda,3,2013,Used,154999.5,Automatic,Gasoline,Green,Cash Only,16000.0
+Al Riyadh,Ford,Explorer,2013,Used,194999.5,Automatic,Gasoline,Silver,Cash Only,42000.0
+Al Riyadh,Kia,Opirus,2008,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,GMC,Envoy,2007,Used,200000.0,Automatic,Gasoline,White,Cash Only,22000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,Renault,Symbol,2016,Used,44999.5,Automatic,Gasoline,Silver,Cash Only,12000.0
+Al Riyadh,Toyota,Yaris,2009,Used,200000.0,Automatic,Gasoline,Green,Cash Only,11000.0
+Al Riyadh,Dodge,Durango,2012,Used,200000.0,Automatic,Gasoline,Grey,Cash Only,35000.0
+Al Riyadh,Kia,Rio,2015,Used,44999.5,Automatic,Gasoline,Beige,Cash Only,10000.0
+Al Riyadh,BMW,730,2014,Used,114999.5,Automatic,Gasoline,Brown,Cash Only,100000.0
+Al Riyadh,Suzuki,Other,2013,Used,14999.5,Manual,Gasoline,White,Cash Only,24000.0
+Al Riyadh,Toyota,Fortuner,2016,Used,64999.5,Automatic,Gasoline,White,Cash Only,94000.0
+Al Riyadh,Toyota,Rush,2019,Used,14999.5,Automatic,Gasoline,White,Cash or Installments,58375.0
+Al Riyadh,Kia,Carnival,2006,Used,0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,Toyota,Camry,2014,Used,24999.5,Automatic,Gasoline,White,Installments Only,58375.0
+Al Riyadh,Ford,Fusion,2010,Used,200000.0,Automatic,Gasoline,White,Cash Only,22425.4
+Al Riyadh,Ford,Taurus,2018,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,22425.4
+Al Riyadh,Renault,Dokker Van,2016,Used,64999.5,Manual,Gasoline,White,Cash Only,20000.0
+Al Riyadh,Toyota,Camry,2019,New,0,Automatic,Gasoline,White,Cash or Installments,98500.0
+Al Riyadh,Ford,Fusion,2014,Used,104999.5,Automatic,Gasoline,Black,Cash Only,45000.0
+Al Riyadh,Nissan,Patrol,2009,Used,200000.0,Manual,Gasoline,White,Cash Only,36000.0
+Al Riyadh,Ford,Expedition,2014,Used,200000.0,Automatic,Gasoline,Black,Installments Only,2114.0
+Al Riyadh,BMW,X5,2008,Used,200000.0,Automatic,Gasoline,Silver,Cash Only,25000.0
+Al Riyadh,Cadillac,Escalade,2008,Used,174999.5,Automatic,Gasoline,Black,Cash or Installments,40000.0
+Al Riyadh,Ford,Crown Victoria,2011,Used,144999.5,Automatic,Gasoline,Silver,Cash Only,23000.0
+Al Riyadh,Toyota,Prado,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,58375.0
+Al Riyadh,Toyota,Avalon,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,30000.0
+Al Riyadh,Mazda,3,2013,Used,154999.5,Automatic,Gasoline,Green,Cash Only,16000.0
+Al Riyadh,Ford,Explorer,2013,Used,194999.5,Automatic,Gasoline,Silver,Cash Only,42000.0
+Al Riyadh,Kia,Opirus,2008,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,GMC,Envoy,2007,Used,200000.0,Automatic,Gasoline,White,Cash Only,22000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,Renault,Symbol,2016,Used,44999.5,Automatic,Gasoline,Silver,Cash Only,12000.0
+Al Riyadh,Toyota,Yaris,2009,Used,200000.0,Automatic,Gasoline,Green,Cash Only,11000.0
+Al Riyadh,Dodge,Durango,2012,Used,200000.0,Automatic,Gasoline,Grey,Cash Only,35000.0
+Al Riyadh,Kia,Rio,2015,Used,44999.5,Automatic,Gasoline,Beige,Cash Only,10000.0
+Al Riyadh,BMW,730,2014,Used,114999.5,Automatic,Gasoline,Brown,Cash Only,100000.0
+Al Riyadh,Suzuki,Other,2013,Used,14999.5,Manual,Gasoline,White,Cash Only,24000.0
+Al Riyadh,Toyota,Fortuner,2016,Used,64999.5,Automatic,Gasoline,White,Cash Only,94000.0
+Al Riyadh,Toyota,Rush,2019,Used,14999.5,Automatic,Gasoline,White,Cash or Installments,58375.0
+Al Riyadh,Kia,Carnival,2006,Used,0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,Toyota,Camry,2014,Used,24999.5,Automatic,Gasoline,White,Installments Only,58375.0
+Al Riyadh,Ford,Fusion,2010,Used,200000.0,Automatic,Gasoline,White,Cash Only,22425.4
+Al Riyadh,Ford,Taurus,2018,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,22425.4
+Al Riyadh,Renault,Dokker Van,2016,Used,64999.5,Manual,Gasoline,White,Cash Only,20000.0
+Al Riyadh,Toyota,Camry,2019,New,0,Automatic,Gasoline,White,Cash or Installments,98500.0
+Al Riyadh,Ford,Fusion,2014,Used,104999.5,Automatic,Gasoline,Black,Cash Only,45000.0
+Al Riyadh,Nissan,Patrol,2009,Used,200000.0,Manual,Gasoline,White,Cash Only,36000.0
+Al Riyadh,Ford,Expedition,2014,Used,200000.0,Automatic,Gasoline,Black,Installments Only,2114.0
+Al Riyadh,BMW,X5,2008,Used,200000.0,Automatic,Gasoline,Silver,Cash Only,25000.0
+Al Riyadh,Cadillac,Escalade,2008,Used,174999.5,Automatic,Gasoline,Black,Cash or Installments,40000.0
+Al Riyadh,Ford,Crown Victoria,2011,Used,144999.5,Automatic,Gasoline,Silver,Cash Only,23000.0
+Al Riyadh,Toyota,Prado,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,58375.0
+Al Riyadh,Toyota,Avalon,2008,Used,200000.0,Automatic,Gasoline,White,Cash Only,30000.0
+Al Riyadh,Mazda,3,2013,Used,154999.5,Automatic,Gasoline,Green,Cash Only,16000.0
+Al Riyadh,Ford,Explorer,2013,Used,194999.5,Automatic,Gasoline,Silver,Cash Only,42000.0
+Al Riyadh,Kia,Opirus,2008,Used,5000.0,Automatic,Gasoline,Grey,Cash Only,10000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,GMC,Envoy,2007,Used,200000.0,Automatic,Gasoline,White,Cash Only,22000.0
+Al Riyadh,BMW,740,2007,Used,200000.0,Automatic,Gasoline,Black,Cash Only,62500.0
+Al Riyadh,Renault,Symbol,2016,Used,44999.5,Automatic,Gasoline,Silver,Cash Only,12000.0
+Al Riyadh,Toyota,Yaris,2009,Used,200000.0,Automatic,Gasoline,Green,Cash Only,11000.0
+Al Riyadh,Dodge,Durango,2012,Used,200000.0,Automatic,Gasoline,Grey,Cash Only,35000.0
+Al Riyadh,Kia,Rio,2015,Used,44999.5,Automatic,Gasoline,Beige,Cash Only,10000.0
+Al Riyadh,BMW,730,2014,Used,114999.5,Automatic,Gasoline,Brown,Cash Only,100000.0
+Al Riyadh,Suzuki,Other,2013,Used,14999.5,Manual,Gasoline,White,Cash Only,24000.0
+Al Riyadh,Toyota,Fortuner,2016,Used,64999.5,Automatic,Gasoline,White,Cash Only,94000.0
